@@ -14,4 +14,4 @@ HTML5新增了一些标签，他们优雅，富含语义。也淘汰了一些过
 
 [下载图片（无download属性）](http://huangyang.qiniudn.com/poster.jpg)
 
-[下载图片（添加了download属性）](http://huangyang.qiniudn.com/poster.jpg)
+[下载图片（添加了download属性）](http://huangyang.qiniudn.com/poster.jpg download=img)
