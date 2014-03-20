@@ -33,5 +33,3 @@ CSS:
     #footer {
         height:80px;
     }
-
-了解更详细的内容可参考这篇文章：[让footer黏着在页面底部[译]](http://huangyang.me/footer-stick-to-the-bottom.html)
