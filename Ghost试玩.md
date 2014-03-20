@@ -1,10 +1,5 @@
-Title: Ghost试玩
-
-Date: 2013-10-19 20:50:56
-
-URL: /about-ghost-1.html
-
-Tags: ghost , node.js
+# Ghost试玩
+2013-10-19 20:50:56
 
 我说的 Ghost 可不是平常说的那种系统盘的意思。这个 [Ghost](http://ghost.org/) 是基于 [Node.js](http://nodejs.org/) 的Blog平台（Just a Blogging Platform）,它简洁纯粹，只做写blog这一件事，支持完全自定义，与生俱来的 Geek 气质并且当然是免费的！关于 Ghost 出现的原因和到底与Wordpress有什么关系和不同，可以去 [Ghost官网](https://en.ghost.org/)了解。
 

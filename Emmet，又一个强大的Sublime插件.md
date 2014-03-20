@@ -1,8 +1,6 @@
-Title: Emmet，又一个强大的Sublime插件
+# Emmet，又一个强大的Sublime插件
+2013-08-15 11:47:51
 
-Date: 2013-08-15 11:47:51
-
-URL: /emmet-for-sublime.html
 
 在用过Sublime Text 2这个强大的编辑器之后，我就打算彻底抛弃其他编辑器（包括过去一直偏爱的Dw）甚至IDE了。Sublime Text凭借其对多种平台的支持（OS X, Windows &amp; Linux）、免费（可永久试用）、轻巧优雅和强大的插件扩展吸引了我。
 

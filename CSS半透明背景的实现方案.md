@@ -1,10 +1,5 @@
-Title: CSS半透明背景的实现方案
+# CSS半透明背景的实现方案
 
-Date: 2013-08-08 12:32:23
-
-URL: /css-translucent.html
-
-**不讲没用的，先上代码：**
 
     background: rgba(0, 0, 0, 0.3); /*CSS3半透明*/
 
@@ -46,5 +41,3 @@ URL: /css-translucent.html
 
     background: rgba(255, 255, 255, .8);
     background: #fff\9;
-
-DM完毕，如果你觉得这篇对你还有点用的话，记得点下面的分享按钮分享给你的小伙伴们阿。本文链接：[CSS半透明背景的实现方案](http://huangyang.me/css-translucent.html "黄杨的博客")，转载请保留，谢谢。

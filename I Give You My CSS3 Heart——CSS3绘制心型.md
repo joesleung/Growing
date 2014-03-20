@@ -1,8 +1,6 @@
-Title: I Give You My CSS3 Heart——CSS3绘制心型
+# I Give You My CSS3 Heart——CSS3绘制心型
+2013-07-22 10:08:28
 
-Date: 2013-07-22 10:08:28
-
-URL: /css3-heart.html
 
 使用CSS3强大的圆角（`border`）属性，配合CSS中的`:before`伪元素就可以轻松绘制一个“心”型图案，省去了加载图片，并且可以自定义颜色等。下面是绘制“心”型的CSS代码，同时还让它在页面水平垂直居中。在不支持CSS3圆角属性的浏览器（如：IE8-）是看不到的。
 

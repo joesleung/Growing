@@ -1,5 +1,6 @@
 # Remove Tap Highlight from Mobile Webkit
 
+
 `-webkit-tap-highlight-color: <color>;`
 
 说明：默认情况下，mobile Safari 浏览器会对超链接文字，表单输入/提交空间等，在触发时默认添加短暂的阴影效果。

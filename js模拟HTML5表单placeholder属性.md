@@ -1,8 +1,6 @@
-Title: js模拟HTML5表单placeholder属性
+# js模拟HTML5表单placeholder属性
+2013-07-28 15:24:55
 
-Date: 2013-07-28 15:24:55
-
-URL: /js-placeholder.html
 
 HTML5对表单输入框`<input/>`新增了一些表单验证规则属性，包括placeholder：
 
