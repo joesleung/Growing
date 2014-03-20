@@ -14,7 +14,7 @@ Apple 此举大概在于告诉用户当前聚焦到页面的什么地方。但�
 
 更多属性规则：
 
-*{
+	*{
         -webkit-touch-callout:none;                /* prevent callout to copy image, etc when tap to hold */
         -webkit-text-size-adjust:none;             /* prevent webkit from resizing text to fit */
         -webkit-tap-highlight-color:rgba(0,0,0,0); /* prevent tap highlight color / shadow */
