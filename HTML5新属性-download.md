@@ -10,8 +10,7 @@ HTML5新增了一些标签，他们优雅，富含语义。也淘汰了一些过
 
 需要注意的是，此属性**目前只有Chrome浏览器才支持，**这也许就是到目前_(2013-07)_为止很少有人知道和使用此属性的原因吧。并且我自己也几乎找不到互联网上有关此属性的一些更多信息。如果你知道的更多，可以给我留言，大家一起学习一起纠正，不胜感激。
 
-演示
+演示：
 
-[下载图片（无download属性）](http://huangyang.qiniudn.com/poster.jpg)
-
-[下载图片（添加了download属性）](http://huangyang.qiniudn.com/poster.jpg download=img)
+<a href="http://huangyang.qiniudn.com/poster.jpg">下载图片（无download属性</a>
+<a href="http://huangyang.qiniudn.com/poster.jpg" download="img">下载图片（添加了download属性）</a>
